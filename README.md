@@ -7,13 +7,13 @@ The script to get these files is to type this commmand
 chmod +x win10.sh
 ./win10.sh `
 
-wget https://raw.githubusercontent.com/Clockiscool1234/WindowsSH/main/win7.sh
+` wget https://raw.githubusercontent.com/Clockiscool1234/WindowsSH/main/win7.sh
 chmod +x win7.sh
-./win7.sh
+./win7.sh `
 
-wget https://raw.githubusercontent.com/Clockiscool1234/WindowsSH/main/winxp.sh
+` wget https://raw.githubusercontent.com/Clockiscool1234/WindowsSH/main/winxp.sh
 chmod +x winxp.sh
-./winxp.sh
+./winxp.sh `
 
 
 
